@@ -1,0 +1,51 @@
+User_ID,Age,Gender,Symptoms,Duration (Days),Pre-existing Conditions,Severity,Suggested Action
+U001,42,Female,Chest Pain,9,Asthma,Moderate,Consult General Physician
+U002,62,Female,Sore Throat,13,Obesity,Severe,Emergency Room Visit
+U003,41,Male,Sore Throat,10,Hypertension,Severe,Self-care
+U004,62,Male,Sore Throat,2,None,Severe,Emergency Room Visit
+U005,30,Female,Fever,5,Diabetes,Mild,Consult General Physician
+U006,42,Other,Fever,8,Diabetes,Mild,Consult General Physician
+U007,21,Female,Sore Throat,14,Asthma,Mild,Self-care
+U008,25,Female,Nausea,14,Obesity,Moderate,Self-care
+U009,34,Other,Dizziness,13,Diabetes,Severe,Consult General Physician
+U010,50,Female,Sore Throat,1,Obesity,Severe,Emergency Room Visit
+U011,34,Female,Cough,5,Heart Disease,Mild,Self-care
+U012,29,Male,Cough,4,Diabetes,Moderate,Emergency Room Visit
+U013,72,Female,Fatigue,9,Heart Disease,Mild,Consult General Physician
+U014,73,Male,Sore Throat,4,Diabetes,Severe,Consult General Physician
+U015,27,Other,Nausea,5,Diabetes,Severe,Self-care
+U016,58,Male,Fever,1,Hypertension,Severe,Emergency Room Visit
+U017,48,Other,Muscle Pain,4,Hypertension,Mild,Emergency Room Visit
+U018,45,Other,Dizziness,3,Asthma,Mild,Consult General Physician
+U019,56,Male,Fever,8,Hypertension,Mild,Consult General Physician
+U020,47,Female,Fatigue,1,Hypertension,Severe,Consult General Physician
+U021,51,Female,Cough,12,Hypertension,Severe,Consult General Physician
+U022,22,Other,Chest Pain,12,Hypertension,Moderate,Consult General Physician
+U023,59,Male,Headache,13,Diabetes,Moderate,Emergency Room Visit
+U024,22,Other,Chest Pain,4,None,Severe,Consult General Physician
+U025,75,Male,Nausea,7,Hypertension,Severe,Emergency Room Visit
+U026,51,Male,Fatigue,12,Heart Disease,Mild,Consult General Physician
+U027,72,Male,Shortness of Breath,5,None,Mild,Consult General Physician
+U028,35,Female,Fever,5,None,Mild,Consult General Physician
+U029,62,Female,Dizziness,2,Asthma,Severe,Emergency Room Visit
+U030,25,Male,Shortness of Breath,10,Diabetes,Severe,Self-care
+U031,34,Male,Muscle Pain,14,Asthma,Severe,Consult General Physician
+U032,30,Male,Dizziness,6,Heart Disease,Moderate,Emergency Room Visit
+U033,60,Male,Dizziness,8,None,Mild,Self-care
+U034,21,Other,Dizziness,6,None,Mild,Consult General Physician
+U035,72,Male,Muscle Pain,9,None,Mild,Emergency Room Visit
+U036,58,Female,Chest Pain,8,Hypertension,Severe,Self-care
+U037,35,Male,Nausea,14,Hypertension,Severe,Self-care
+U038,30,Male,Sore Throat,11,Asthma,Severe,Self-care
+U039,50,Male,Headache,2,Obesity,Moderate,Consult General Physician
+U040,62,Female,Dizziness,10,Heart Disease,Mild,Consult General Physician
+U041,38,Male,Headache,10,Hypertension,Mild,Consult General Physician
+U042,66,Male,Fatigue,8,None,Moderate,Emergency Room Visit
+U043,46,Female,Headache,12,Hypertension,Mild,Consult General Physician
+U044,22,Female,Headache,6,None,Severe,Emergency Room Visit
+U045,68,Other,Sore Throat,8,Obesity,Mild,Emergency Room Visit
+U046,70,Other,Chest Pain,4,Obesity,Moderate,Emergency Room Visit
+U047,27,Other,Nausea,1,Asthma,Severe,Emergency Room Visit
+U048,64,Other,Sore Throat,9,Obesity,Moderate,Self-care
+U049,34,Female,Nausea,5,Asthma,Severe,Emergency Room Visit
+U050,20,Other,Muscle Pain,8,Asthma,Moderate,Consult General Physician
